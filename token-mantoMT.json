@@ -1,0 +1,20 @@
+{
+    "name": "manto",
+    "symbol": "MT",
+    "decimals": 9,
+    "address": "AF9cpMZ8jo3QCnZ671Hbk13Dhw79vqxUsdy3wAiuNdae",
+    "logoURI": "https://manto.es/logo.png",
+    "tags": [
+        "utility-token",
+        "DeFi",
+        "Manto",
+        "ecosistema"
+    ],
+    "extensions": {
+        "website": "https://manto.es",
+        "twitter": "https://twitter.com/mantomt",
+        "github": "https://github.com/mantoFus/manto-ecosistema-global",
+        "whitepaper": "https://manto.es/whitepaper.pdf",
+        "description": "manto (MT) es la moneda del Reino: una criptomoneda respaldada en oro, proyectos reales y justicia social, desarrollada en la blockchain Solana. Forma parte del Ecosistema Financiero Global manto MT."
+    }
+}
